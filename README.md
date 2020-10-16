@@ -1,2 +1,2 @@
 # Neograd
-Supporting code for the Neograd algorithm
+Supporting code for the Neograd algorithm.  It'll be uploaded soon.
